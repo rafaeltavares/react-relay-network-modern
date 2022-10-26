@@ -1,5 +1,5 @@
 {
-  "name": "react-relay-network-modern",
+  "name": "react-relay-network-modern-es",
   "version": "0.0.0-semantically-released",
   "description": "Network Layer for React Relay and Express (Batch Queries, AuthToken, Logging, Retry)",
   "engines": {
@@ -16,7 +16,7 @@
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/relay-tools/react-relay-network-modern.git"
+    "url": "https://github.com/rafaeltavares/react-relay-network-modern.git"
   },
   "keywords": [
     "relay",
@@ -30,9 +30,9 @@
   "author": "Pavel Chertorogov @nodkz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/relay-tools/react-relay-network-modern/issues"
+    "url": "https://github.com/rafaeltavares/react-relay-network-modern/issues"
   },
-  "homepage": "https://github.com/relay-tools/react-relay-network-modern#readme",
+  "homepage": "https://github.com/rafaeltavares/react-relay-network-modern#readme",
   "dependencies": {
     "@babel/runtime": "^7.0.0",
     "core-js": "^3.0.0",
